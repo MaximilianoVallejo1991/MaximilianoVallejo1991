@@ -51,11 +51,11 @@
 
 ## 💻 Proyectos en Desarrollo
 
-### 🛠️ [stock-control-back & stock-control-main](https://github.com/MaximilianoVallejo1991/stock-control-back  .../stock-control-main)
-API robusta para la gestión y control de inventarios. Desarrollada con arquitectura escalable utilizando **Node.js**, **Express** y **Prisma**, aplicando metodologías de desarrollo asistido.
+### 🛠️ [stock-control-back & stock-control-main]
+Aplicacion robusta con servicio de venta POS y para la gestión y control de inventarios. Desarrollada con arquitectura escalable utilizando **Node.js**, **Express** y **Prisma**, aplicando metodologías de desarrollo asistido.
 
-### 📊 Gestor Financiero - Elianapp
-Aplicación en desarrollo para el control de ingresos y egresos, enfocada en la optimización de datos y arquitectura limpia.
+### 📊 Elianapp- Gestor Financiero 
+Aplicación en desarrollo para el control gastos compartidos y una eficiente forma de dividir los gastos en grupos, enfocada en la optimización de datos y arquitectura limpia.
 
 ---
 
