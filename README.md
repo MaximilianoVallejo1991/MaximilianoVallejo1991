@@ -60,5 +60,5 @@ Aplicación en desarrollo para el control de ingresos y egresos, enfocada en la 
 ---
 
 <div align="center">
-  <sub>Diseñado con ❤️ por Maximiliano Vallejo. ¡Hablemos!</sub>
+  <sub> Maximiliano Vallejo. ¡Hablemos!</sub>
 </div>
