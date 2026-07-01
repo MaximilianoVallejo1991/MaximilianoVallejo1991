@@ -97,7 +97,7 @@ Buscá tu país y mirá la cuenta regresiva hasta Navidad y Año Nuevo. Proyecto
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoVallejo1991&theme=transparent&hide_border=true&stroke=2563EB" alt="GitHub Streak" width="495">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoVallejo1991&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&sideNums=09090B&sideLabels=18181B&dates=3F3F46&currStreakNum=09090B&currStreakLabel=18181B&background=FAFAFA" alt="GitHub Streak" width="495">
 
 </div>
 
