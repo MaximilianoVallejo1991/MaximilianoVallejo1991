@@ -35,26 +35,32 @@ Mi diferencial no es solo escribir código: es **dirigir la IA** con precisión 
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
-<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+<div style="overflow-x: auto; white-space: nowrap; padding: 8px 0; scrollbar-width: thin;">
+  <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" style="margin-right: 8px;">
+</div>
 
 ### Backend & Bases de Datos
 
-<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-<img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white" alt="Express">
-<img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
-<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
-<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<div style="overflow-x: auto; white-space: nowrap; padding: 8px 0; scrollbar-width: thin;">
+  <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white" alt="Express" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="margin-right: 8px;">
+</div>
 
 ### Herramientas & AI
 
-<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
-<img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
-<img src="https://img.shields.io/badge/AI_Augmented-18181B?style=flat-square&logo=openai&logoColor=white" alt="AI Augmented">
+<div style="overflow-x: auto; white-space: nowrap; padding: 8px 0; scrollbar-width: thin;">
+  <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" style="margin-right: 8px;">
+  <img src="https://img.shields.io/badge/AI_Augmented-18181B?style=flat-square&logo=openai&logoColor=white" alt="AI Augmented" style="margin-right: 8px;">
+</div>
 
 ---
 
