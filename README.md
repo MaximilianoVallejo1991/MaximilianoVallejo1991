@@ -23,10 +23,10 @@
 
 ## Enfoque
 
-Mi diferencial no es solo escribir código: es **dirigir la IA** con precisión para obtener resultados consistentes, mantenibles y seguros.
+Mi Enfoque no es solo escribir código: es **dirigir la IA** con precisión para obtener resultados consistentes, mantenibles y seguros.
 
 - **Spec-driven Development (SDD)** — Especificaciones técnicas detalladas antes de escribir código, asegurando coherencia del sistema y reduciendo iteraciones.
-- **Evaluación de modelos** — Selección del modelo óptimo según la tarea: refactorización, lógica de neg compleja, debugging o generación inicial.
+- **Evaluación de modelos** — Selección del modelo óptimo según la tarea: refactorización, lógica de negocios compleja, debugging o generación inicial.
 - **Harnesses & Skills** — Entornos de prueba estructurados y optimización de contextos para guiar agentes de IA con precisión quirúrgica.
 
 ---
