@@ -35,40 +35,68 @@ Mi diferencial no es solo escribir código: es **dirigir la IA** con precisión 
 
 ### Frontend
 
-<div style="width: 100%; overflow-x: auto; scrollbar-width: thin;">
-  <div style="display: flex; flex-wrap: nowrap; gap: 8px; padding: 8px 0; width: max-content;">
-    <img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" style="flex-shrink: 0;">
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 8px 0;">
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" style="display: block;">
+  </span>
 </div>
 
 ### Backend & Bases de Datos
 
-<div style="width: 100%; overflow-x: auto; scrollbar-width: thin;">
-  <div style="display: flex; flex-wrap: nowrap; gap: 8px; padding: 8px 0; width: max-content;">
-    <img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white" alt="Express" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/JWT-18181B?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" style="flex-shrink: 0;">
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 8px 0;">
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/Prisma-18181B?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" style="display: block;">
+  </span>
 </div>
 
 ### Herramientas & AI
 
-<div style="width: 100%; overflow-x: auto; scrollbar-width: thin;">
-  <div style="display: flex; flex-wrap: nowrap; gap: 8px; padding: 8px 0; width: max-content;">
-    <img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/npm-18181B?style=flat-square&logo=npm&logoColor=CB3837" alt="npm" style="flex-shrink: 0;">
-    <img src="https://img.shields.io/badge/AI_Augmented-18181B?style=flat-square&logo=openai&logoColor=white" alt="AI Augmented" style="flex-shrink: 0;">
-  </div>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; padding: 8px 0;">
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/Postman-18181B?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/VS_Code-18181B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/npm-18181B?style=for-the-badge&logo=npm&logoColor=CB3837" alt="npm" style="display: block;">
+  </span>
+  <span style="display: inline-flex; background: #161B22; border-radius: 8px; padding: 8px 14px;">
+    <img src="https://img.shields.io/badge/AI_Augmented-18181B?style=for-the-badge&logo=openai&logoColor=white" alt="AI Augmented" style="display: block;">
+  </span>
 </div>
 
 ---
