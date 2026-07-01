@@ -1,64 +1,118 @@
 <div align="center">
 
-# ¡Hola! Soy Maximiliano Vallejo 👋
-### **Desarrollador Full Stack Jr. & AI-Augmented Engineer**
+# Maximiliano Vallejo
+**`Full Stack Developer · AI-Augmented Engineer`**
 
-📍 Tucumán, Argentina 🇦🇷
+📍 Tucumán, Argentina
 
----
+<a href="https://www.linkedin.com/in/maximiliano-vallejo/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:jmaximilianovallejo@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+<img src="https://img.shields.io/badge/Tucumán,_Argentina-18181B?style=flat-square" alt="Location">
 
-<p align="center">
-  <a href="AQUÍ_IRÁ_TU_LINK_MÁS_ADELANTE">🎯 LinkedIn</a> • 
-  <a href="mailto:tu-email@email.com">📧 Email</a>
-</p>
+<br>
+
+> *"No solo uso la IA para escribir código — me especializo en su manejo estratégico como multiplicador de productividad y calidad."*
 
 </div>
 
 ---
 
-## 🧠 Mi Enfoque: Desarrollo Aumentado con IA
+## Enfoque
 
-> 💡 *No solo uso la IA para escribir código; me especializo en su manejo eficiente y estratégico como un multiplicador de productividad y calidad.*
+Mi diferencial no es solo escribir código: es **dirigir la IA** con precisión para obtener resultados consistentes, mantenibles y seguros.
 
-*   **Spec-driven Development (SDD):** Diseño especificaciones técnicas claras y detalladas antes de tirar la primera línea de código para asegurar la coherencia del sistema.
-*   **Evaluación de Modelos:** Sé qué modelo del mercado aplicar según la complejidad de la tarea (refactorización, lógica de negocio o debugging).
-*   **Harnesses & Skills:** Implementación de entornos de prueba estructurados y optimización de contextos para guiar a los agentes de IA de manera precisa, asegurando un código limpio, seguro y mantenible.
-
----
-
-## 🚀 Stack Tecnológico
-
-### **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23f7df1e.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Bases de Datos**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### **Herramientas de IA & Flujo**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![AI-Powered](https://img.shields.io/badge/AI--Driven-Development-blueviolet?style=for-the-badge&logo=openai&logoColor=white)
+- **Spec-driven Development (SDD)** — Especificaciones técnicas detalladas antes de escribir código, asegurando coherencia del sistema y reduciendo iteraciones.
+- **Evaluación de modelos** — Selección del modelo óptimo según la tarea: refactorización, lógica de neg compleja, debugging o generación inicial.
+- **Harnesses & Skills** — Entornos de prueba estructurados y optimización de contextos para guiar agentes de IA con precisión quirúrgica.
 
 ---
 
-## 💻 Proyectos en Desarrollo
+## Stack Tecnológico
 
-### 🛠️ [stock-control-back & stock-control-main]
-Aplicacion robusta con servicio de venta POS y para la gestión y control de inventarios. Desarrollada con arquitectura escalable utilizando **Node.js**, **Express** y **Prisma**, aplicando metodologías de desarrollo asistido.
+### Frontend
 
-### 📊 Elianapp- Gestor Financiero 
-Aplicación en desarrollo para el control gastos compartidos y una eficiente forma de dividir los gastos en grupos, enfocada en la optimización de datos y arquitectura limpia.
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript">
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
+<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
+
+### Backend & Bases de Datos
+
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
+<img src="https://img.shields.io/badge/Express-18181B?style=flat-square&logo=express&logoColor=white" alt="Express">
+<img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-18181B?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MySQL-18181B?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+
+### Herramientas & AI
+
+<img src="https://img.shields.io/badge/Git-18181B?style=flat-square&logo=git&logoColor=F05032" alt="Git">
+<img src="https://img.shields.io/badge/Postman-18181B?style=flat-square&logo=postman&logoColor=FF6C37" alt="Postman">
+<img src="https://img.shields.io/badge/VS_Code-18181B?style=flat-square&logo=visualstudiocode&logoColor=007ACC" alt="VS Code">
+<img src="https://img.shields.io/badge/AI_Augmented-18181B?style=flat-square&logo=openai&logoColor=white" alt="AI Augmented">
+
+---
+
+## Proyectos Destacados
+
+### Stock Control — POS & Inventory
+
+[![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/MaximilianoVallejo1991/stock-controll-main)
+[![License](https://img.shields.io/badge/License-MIT-3F3F46?style=flat-square)](https://github.com/MaximilianoVallejo1991/stock-controll-main)
+
+Sistema integral de gestión de inventarios y punto de venta (POS) con motor de descuentos dinámico, control de stock en tiempo real, seguimiento de ventas, cuentas corrientes y reportes estadísticos avanzados.
+
+**Stack:** Node.js · Express · Prisma · PostgreSQL · React
+
+---
+
+### ElianApp — Collaborative Expense Tracking
+
+[![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/MaximilianoVallejo1991/ElianApp)
+[![Live](https://img.shields.io/badge/Live-18181B?style=flat-square&logo=vercel&logoColor=white)](https://elian-app-frontend.vercel.app)
+
+Aplicación para control de gastos compartidos: cada persona reporta sus propios items, el sistema valida y balancea. Soporta división equitativa, por porcentaje y exacta por participante.
+
+**Stack:** React 19 · Express 5 · Prisma 7 · PostgreSQL · JWT
+
+---
+
+### Countdown to Christmas
+
+[![Repo](https://img.shields.io/badge/Repo-2563EB?style=flat-square&logo=github&logoColor=white)](https://github.com/MaximilianoVallejo1991/CountdownToChristmas)
+[![Live](https://img.shields.io/badge/Live-18181B?style=flat-square&logo=vercel&logoColor=white)](https://tochristmas.vercel.app/)
+
+Buscá tu país y mirá la cuenta regresiva hasta Navidad y Año Nuevo. Proyecto liviano con despliegue en Vercel.
+
+**Stack:** JavaScript · HTML5 · CSS3 · Vercel
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MaximilianoVallejo1991&show_icons=true&title_color=18181B&icon_color=2563EB&text_color=09090B&bg_color=FAFAFA&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="420">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoVallejo1991&layout=compact&title_color=18181B&text_color=09090B&bg_color=FAFAFA&hide_border=true" alt="Top Languages" width="350">
+
+</div>
 
 ---
 
 <div align="center">
-  <sub> Maximiliano Vallejo. ¡Hablemos!</sub>
+
+<a href="https://www.linkedin.com/in/maximiliano-vallejo/">
+  <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:jmaximilianovallejo@gmail.com">
+  <img src="https://img.shields.io/badge/Mandame_un_mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+**Siempre abierto a nuevos proyectos, ideas y colaboraciones.**
+
 </div>
