@@ -97,8 +97,9 @@ Buscá tu país y mirá la cuenta regresiva hasta Navidad y Año Nuevo. Proyecto
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MaximilianoVallejo1991&show_icons=true&title_color=18181B&icon_color=2563EB&text_color=09090B&bg_color=FAFAFA&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="420">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaximilianoVallejo1991&layout=compact&title_color=18181B&text_color=09090B&bg_color=FAFAFA&hide_border=true" alt="Top Languages" width="350">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MaximilianoVallejo1991&theme=transparent&hide_border=true&stroke=2563EB&ring=2563EB&fire=2563EB&currStreakNum=09090B&sideNums=09090B&sideLabels=3F3F46&dates=3F3F46" alt="GitHub Streak" width="495">
+
+<img src="https://ghchart.rshah.org/2563EB/MaximilianoVallejo1991" alt="GitHub Contribution Chart" width="720">
 
 </div>
 
@@ -107,11 +108,14 @@ Buscá tu país y mirá la cuenta regresiva hasta Navidad y Año Nuevo. Proyecto
 <div align="center">
 
 <a href="https://www.linkedin.com/in/maximiliano-vallejo/">
-  <img src="https://img.shields.io/badge/Conectemos_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:jmaximilianovallejo@gmail.com">
-  <img src="https://img.shields.io/badge/Mandame_un_mail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
+
+<br>
+<br>
 
 **Siempre abierto a nuevos proyectos, ideas y colaboraciones.**
 
