@@ -23,7 +23,10 @@
 
 ## Enfoque
 
-Mi Enfoque no es solo escribir código: es **dirigir la IA** con precisión para obtener resultados consistentes, mantenibles y seguros.
+¡Hola! Soy Maximiliano 👋
+Desarrollador Full Stack con base en Argentina. Actualmente me encuentro en las primeras etapas de mi carrera profesional, consolidando mis habilidades técnicas y enfocándome en el crecimiento continuo.
+
+Me apasiona la optimización de procesos, por lo que me especializo en el desarrollo aumentado por IA
 
 - **Spec-driven Development (SDD)** — Especificaciones técnicas detalladas antes de escribir código, asegurando coherencia del sistema y reduciendo iteraciones.
 - **Evaluación de modelos** — Selección del modelo óptimo según la tarea: refactorización, lógica de negocios compleja, debugging o generación inicial.
