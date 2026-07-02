@@ -1,7 +1,7 @@
 <div align="center">
 
 # Maximiliano Vallejo
-**`Full Stack Developer · AI-Augmented Engineer`**
+**`Full Stack Developer`**
 
 📍 Tucumán, Argentina
 
@@ -11,26 +11,29 @@
 <a href="mailto:jmaximilianovallejo@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
-<img src="https://img.shields.io/badge/Tucumán,_Argentina-18181B?style=flat-square" alt="Location">
-
-<br>
-
-> *"No solo uso la IA para escribir código — me especializo en su manejo estratégico como multiplicador de productividad y calidad."*
+<img src="https://img.shields.io/badge/Open_to_Work-2DA44E?style=flat-square" alt="Open to Work">
 
 </div>
 
 ---
 
-## Enfoque
+## Sobre mí
 
-¡Hola! Soy Maximiliano 👋
-Desarrollador Full Stack con base en Argentina. Actualmente me encuentro en las primeras etapas de mi carrera profesional, consolidando mis habilidades técnicas y enfocándome en el crecimiento continuo.
+Desarrollador Full Stack autodidacta, en búsqueda de mi primer rol profesional en tecnología.
 
-Me apasiona la optimización de procesos, por lo que me especializo en el desarrollo aumentado por IA
+Vengo de 4 años trabajando en **soporte IT, mantenimiento de sistemas y redes** — donde aprendí a resolver problemas, pensar en infraestructura y trabajar con equipos.
 
-- **Spec-driven Development (SDD)** — Especificaciones técnicas detalladas antes de escribir código, asegurando coherencia del sistema y reduciendo iteraciones.
-- **Evaluación de modelos** — Selección del modelo óptimo según la tarea: refactorización, lógica de negocios compleja, debugging o generación inicial.
-- **Harnesses & Skills** — Entornos de prueba estructurados y optimización de contextos para guiar agentes de IA con precisión quirúrgica.
+Hace 3 años empecé a programar por mi cuenta. Desde entonces vengo construyendo aplicaciones web completas con React, Node.js y PostgreSQL, aplicando buenas prácticas de arquitectura, testing y desarrollo iterativo.
+
+---
+
+## Mi diferencial
+
+Además de escribir código, sé usar herramientas de IA de forma estratégica para ser más productivo:
+
+- **Spec-driven Development** — Especificaciones técnicas claras antes de codear
+- **Evaluación de modelos** — El modelo correcto para cada tarea
+- **Optimización de contextos** — Harnesses y skills para guiar agentes de IA con precisión
 
 ---
 
@@ -151,16 +154,13 @@ Buscá tu país y mirá la cuenta regresiva hasta Navidad y Año Nuevo. Proyecto
 
 <div align="center">
 
+**Abierto a conversar sobre oportunidades junior, trainee o pasantías en desarrollo.**
+
 <a href="https://www.linkedin.com/in/maximiliano-vallejo/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:jmaximilianovallejo@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
-
-<br>
-<br>
-
-**Siempre abierto a nuevos proyectos, ideas y colaboraciones.**
 
 </div>
