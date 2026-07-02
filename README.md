@@ -21,9 +21,7 @@
 
 Desarrollador Full Stack autodidacta, en búsqueda de mi primer rol profesional en tecnología.
 
-Vengo de 4 años trabajando en **soporte IT, mantenimiento de sistemas y redes** — donde aprendí a resolver problemas, pensar en infraestructura y trabajar con equipos.
-
-Hace 3 años empecé a programar por mi cuenta. Desde entonces vengo construyendo aplicaciones web completas con React, Node.js y PostgreSQL, aplicando buenas prácticas de arquitectura, testing y desarrollo iterativo.
+Vengo de 11 años en la industria fabril diseñando y fabricando maquinaria automatizada con PLCs y sistemas neumáticos (arrancadoras de papa, sierras sin fin, ladrilleras), y de 4 años en soporte IT y operaciones de red en el Poder Judicial de Tucumán. Hace 3 años empecé a programar por mi cuenta y desde entonces construyo aplicaciones web completas con React, Node.js, Express y PostgreSQL.
 
 ---
 
